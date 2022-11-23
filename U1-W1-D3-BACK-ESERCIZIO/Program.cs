@@ -77,22 +77,6 @@ namespace U1_W1_D3_BACK_ESERCIZIO
             } while (scelta != "1" | scelta != "2" | scelta != "3");
 
 
-            //switch (scelta)
-            //{
-            //    case "1":
-            //        Console.WriteLine("Apertura Conto Corrente");
-            //        break;
-            //    case "2":
-            //        Console.WriteLine("Prelievo");
-            //        break;
-            //    case "3":
-            //        Console.WriteLine("Versamento");
-            //        break;
-            //    default:
-            //        Console.WriteLine("Scelta non valida");
-            //        break;
-            //}
-
         
 
             Console.ReadLine();
